@@ -1,0 +1,14 @@
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.exe.config
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.exe
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.pdb
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.csprojResolveAssemblyReference.cache
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.exe
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.pdb
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.exe.config
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.exe
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\bin\Release\ии-шахматный.pdb
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\bin\Release\nunit.framework.dll
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\bin\Release\nunit.framework.xml
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.csprojResolveAssemblyReference.cache
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.exe
+C:\Users\miked\Desktop\бекапище\бекап\ии-шахматный\ии-шахматный\obj\Release\ии-шахматный.pdb

@@ -1,0 +1,11 @@
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\bin\Debug\Native.NUnit.Tests1.manifest
+C:\Users\miked\Documents\Visual Studio 2015\Projects\ии-шахматный\NUnit.Tests1\obj\Debug\Native.NUnit.Tests1.manifest
